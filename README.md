@@ -1,4 +1,4 @@
-# Decentralized-Education-Data-with-Verified-Data-Modifier
+# Decentralized-Education-Data-with-Verified-Data-Modifier-smart-contract
 - This smart contract is created to avoid the problem of marksheet document submission to the various institutions/companies/college/school for verification.
 - institutions/companies/college/school can verify data of a person only by using this smart contract as the Marks data can only be updated by the verified user.
 - This smart contract maintain students educational data such as (HSC, SSC, UG and PG) marks in a authentic decentralized way.
